@@ -6,4 +6,4 @@ Created on 11 de ago de 2017
 
 if __name__ == '__main__':
     print("LCD")
-    print("edited in Android)
+    print("edited in Android")
